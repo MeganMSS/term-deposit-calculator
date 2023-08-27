@@ -1,3 +1,5 @@
+'use strict';
+
 import { expect, test } from 'vitest';
 import { calculateFinalBalance } from '../calculateFinalBalance';
 
